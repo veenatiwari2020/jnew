@@ -28,7 +28,7 @@ sudo a2enmod proxy
 sudo a2enmod proxy_http
 ```
 
-### `/etc/apache2/sites-availabe/jenkins.conf`
+### `/etc/apache2/sites-available/jenkins.conf`
 
 ```bash
 <VirtualHost *:80>
